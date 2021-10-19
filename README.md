@@ -4,7 +4,20 @@ Python interview useful links
 Table of Contents
 =================
 
-* [Python Interview preparation](#Python-interview-preparation)
+* [Python Interview preparation](#python-interview-preparation)
+* [Table of Contents](#table-of-contents)
+   * [Core concepts](#core-concepts)
+   * [List](#list)
+   * [String](#string)
+   * [Tutorial](#tutorial)
+   * [Tips and Tricks](#tips-and-tricks)
+   * [Learn Python](#learn-python)
+   * [OOP Python](#oop-python)
+   * [Projects in Python](#projects-in-python)
+   * [Exception handling](#exception-handling)
+   * [Debugging](#debugging)
+   * [News letter](#news-letter)
+   * [Flask](#flask)
 
 
 ## `Core concepts`
