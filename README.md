@@ -13,6 +13,9 @@ Table of Contents
 ## `List`
 - [https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python](https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python)<br>
 
+## `String`
+- [https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/](https://www.freecodecamp.org/news/python-string-split-and-join-methods-explained-with-examples/)<br>
+
 ## `Tutorial`
 - [https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python)<br>
 - [https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction](https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction)<br>
