@@ -53,7 +53,7 @@ Table of Contents
 - [https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g](https://dev.to/kiransethu46/50-python-projects-with-source-code-2n7g)<br>
 - [https://pythonawesome.com/a-public-api-written-in-python-using-the-flask-web-framework-to-determine-the-direction-of-a-road-sign-using-ai/](https://pythonawesome.com/a-public-api-written-in-python-using-the-flask-web-framework-to-determine-the-direction-of-a-road-sign-using-ai/)<br>
 - [https://www.analyticsvidhya.com/blog/2021/10/scraping-flipkart-data-using-python-web-scraping-tutorial/](https://www.analyticsvidhya.com/blog/2021/10/scraping-flipkart-data-using-python-web-scraping-tutorial/)<br>
-- []()<br>
+- [https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/]()<br>
