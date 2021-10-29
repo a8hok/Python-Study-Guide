@@ -67,3 +67,6 @@ Table of Contents
 
 ## `Flask`
 - [https://pythonistaplanet.com/python-flask-project-ideas/](https://pythonistaplanet.com/python-flask-project-ideas/)<br>
+
+## `Python interview`
+- [https://pythonawesome.com/about-different-data-structures-and-algorithms/](https://pythonawesome.com/about-different-data-structures-and-algorithms/)<br>
