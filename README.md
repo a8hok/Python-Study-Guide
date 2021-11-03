@@ -41,6 +41,7 @@ Table of Contents
 - [https://razacodes.io/python-tech-trivia-chapter-2](https://razacodes.io/python-tech-trivia-chapter-2)<br>
 - [https://towardsdatascience.com/python-from-a-to-z-8a37e0573773](https://towardsdatascience.com/python-from-a-to-z-8a37e0573773)<br>
 - [https://mr-unity-buddy.hashnode.dev/brand-new-python-features-in-2021](https://mr-unity-buddy.hashnode.dev/brand-new-python-features-in-2021)<br>
+- [https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92](https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92)<br>
 - []()<br>
 
 ## `OOP Python`
