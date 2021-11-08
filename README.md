@@ -42,6 +42,7 @@ Table of Contents
 - [https://towardsdatascience.com/python-from-a-to-z-8a37e0573773](https://towardsdatascience.com/python-from-a-to-z-8a37e0573773)<br>
 - [https://mr-unity-buddy.hashnode.dev/brand-new-python-features-in-2021](https://mr-unity-buddy.hashnode.dev/brand-new-python-features-in-2021)<br>
 - [https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92](https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92)<br>
+- [https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g](https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g)<br>
 - []()<br>
 
 ## `OOP Python`
@@ -56,6 +57,7 @@ Table of Contents
 - [https://www.analyticsvidhya.com/blog/2021/10/scraping-flipkart-data-using-python-web-scraping-tutorial/](https://www.analyticsvidhya.com/blog/2021/10/scraping-flipkart-data-using-python-web-scraping-tutorial/)<br>
 - [https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/)<br>
 - [https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)<br>
+- [https://github.com/Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/]()<br>
@@ -70,5 +72,10 @@ Table of Contents
 ## `Flask`
 - [https://pythonistaplanet.com/python-flask-project-ideas/](https://pythonistaplanet.com/python-flask-project-ideas/)<br>
 
+## `Django`
+- [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
+
+
 ## `Python interview`
 - [https://pythonawesome.com/about-different-data-structures-and-algorithms/](https://pythonawesome.com/about-different-data-structures-and-algorithms/)<br>
+- []()<br>
