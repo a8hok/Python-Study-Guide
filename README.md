@@ -58,6 +58,9 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-2/)<br>
 - [https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)<br>
 - [https://github.com/Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)<br>
+- [https://pythonawesome.com/a-simple-discord-bot-boilerplate/](https://pythonawesome.com/a-simple-discord-bot-boilerplate/)<br>
+- [https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/](https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/)<br>
+- []()<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/]()<br>
@@ -74,6 +77,7 @@ Table of Contents
 
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
+- [https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/](https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/)<br>
 
 
 ## `Python interview`
