@@ -35,6 +35,7 @@ Table of Contents
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
+- [https://proxlight.hashnode.dev/python-interesting-facts](https://proxlight.hashnode.dev/python-interesting-facts)<br>
 
 ## `Learn Python`
 - [https://dev.to/phylis/30days-of-python-laj?signin=true](https://dev.to/phylis/30days-of-python-laj?signin=true)<br>
