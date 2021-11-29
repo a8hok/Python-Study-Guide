@@ -65,7 +65,8 @@ Table of Contents
 - []()<br>
 
 ## `Exception handling`
-- [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/]()<br>
+- [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
+- [https://mannuel.hashnode.dev/handling-exceptions-in-python](https://mannuel.hashnode.dev/handling-exceptions-in-python)<br>
 
 ## `Debugging`
 - [https://code.likeagirl.io/getting-started-with-python-debugging-using-a-debugger-cd7d436b4db5](https://code.likeagirl.io/getting-started-with-python-debugging-using-a-debugger-cd7d436b4db5)<br>
