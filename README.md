@@ -61,7 +61,6 @@ Table of Contents
 - [https://github.com/Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)<br>
 - [https://pythonawesome.com/a-simple-discord-bot-boilerplate/](https://pythonawesome.com/a-simple-discord-bot-boilerplate/)<br>
 - [https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/](https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/)<br>
-- [https://github.com/Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)<br>
 - []()<br>
 
 ## `Exception handling`
