@@ -45,6 +45,7 @@ Table of Contents
 - [https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92](https://pub.towardsai.net/the-2021-python-developer-roadmap-255a6d05ec92)<br>
 - [https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g](https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g)<br>
 - [https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff](https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff)<br>
+- [https://python-patterns.guide/](https://python-patterns.guide/)<br>
 - []()<br>
 
 ## `OOP Python`
