@@ -46,6 +46,7 @@ Table of Contents
 - [https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g](https://dev.to/rochacbruno/python-protocol-oriented-programming-1m0g)<br>
 - [https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff](https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff)<br>
 - [https://python-patterns.guide/](https://python-patterns.guide/)<br>
+- [https://devdojo.com/abhiraj/the-ultimate-python-cheatsheet](https://devdojo.com/abhiraj/the-ultimate-python-cheatsheet)<br>
 - []()<br>
 
 ## `OOP Python`
