@@ -18,6 +18,8 @@ Table of Contents
    * [Debugging](#debugging)
    * [News letter](#news-letter)
    * [Flask](#flask)
+   * [Django](#django)
+   * [Python interview](#python-interview)
 
 
 ## `Core concepts`
@@ -32,10 +34,14 @@ Table of Contents
 ## `Tutorial`
 - [https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python)<br>
 - [https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction](https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction)<br>
+- [https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html](https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html)<br>
+- []()<br>
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
 - [https://proxlight.hashnode.dev/python-interesting-facts](https://proxlight.hashnode.dev/python-interesting-facts)<br>
+- [https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d](https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d)<br>
+- []()<br>
 
 ## `Learn Python`
 - [https://dev.to/phylis/30days-of-python-laj?signin=true](https://dev.to/phylis/30days-of-python-laj?signin=true)<br>
