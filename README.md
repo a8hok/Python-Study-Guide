@@ -89,6 +89,8 @@ Table of Contents
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
 - [https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/](https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/)<br>
+- [https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c](https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)<br>
+- []()<br>
 
 
 ## `Python interview`
