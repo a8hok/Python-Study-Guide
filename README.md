@@ -70,7 +70,7 @@ Table of Contents
 - [https://github.com/Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects)<br>
 - [https://pythonawesome.com/a-simple-discord-bot-boilerplate/](https://pythonawesome.com/a-simple-discord-bot-boilerplate/)<br>
 - [https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/](https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/)<br>
-- []()<br>
+- [https://dev.to/tmchuynh/python-projects-for-beginners-2p90](https://dev.to/tmchuynh/python-projects-for-beginners-2p90)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
