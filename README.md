@@ -97,4 +97,4 @@ Table of Contents
 ## `Python interview`
 - [https://pythonawesome.com/about-different-data-structures-and-algorithms/](https://pythonawesome.com/about-different-data-structures-and-algorithms/)<br>
 - [https://www.edureka.co/blog/interview-questions/python-interview-questions/](https://www.edureka.co/blog/interview-questions/python-interview-questions/)<br>
-- []()<br>
+- [https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3(https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3)<br>
