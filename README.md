@@ -73,6 +73,7 @@ Table of Contents
 - [https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/](https://blog.logrocket.com/build-python-web-scraper-beautiful-soup/)<br>
 - [https://dev.to/tmchuynh/python-projects-for-beginners-2p90](https://dev.to/tmchuynh/python-projects-for-beginners-2p90)<br>
 - [https://www.kdnuggets.com/2022/08/free-python-project-coding-course.html?utm_source=rss&utm_medium=rss&utm_campaign=free-python-project-coding-course](https://www.kdnuggets.com/2022/08/free-python-project-coding-course.html?utm_source=rss&utm_medium=rss&utm_campaign=free-python-project-coding-course)<br>
+- [https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/](https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
