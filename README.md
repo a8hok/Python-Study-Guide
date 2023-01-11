@@ -75,6 +75,7 @@ Table of Contents
 - [https://www.kdnuggets.com/2022/08/free-python-project-coding-course.html?utm_source=rss&utm_medium=rss&utm_campaign=free-python-project-coding-course](https://www.kdnuggets.com/2022/08/free-python-project-coding-course.html?utm_source=rss&utm_medium=rss&utm_campaign=free-python-project-coding-course)<br>
 - [https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/](https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)<br>
 - [https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/](https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)<br>
+- [https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/](https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
