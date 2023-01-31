@@ -53,7 +53,7 @@ Table of Contents
 - [https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff](https://python.plainenglish.io/python-flask-quick-reference-12e782b101ff)<br>
 - [https://python-patterns.guide/](https://python-patterns.guide/)<br>
 - [https://devdojo.com/abhiraj/the-ultimate-python-cheatsheet](https://devdojo.com/abhiraj/the-ultimate-python-cheatsheet)<br>
-- []()<br>
+- [https://python.plainenglish.io/complete-python-guide-from-learning-to-earning-ac5e5504c883](https://python.plainenglish.io/complete-python-guide-from-learning-to-earning-ac5e5504c883)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
