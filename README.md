@@ -24,7 +24,8 @@ Table of Contents
 
 ## `Core concepts`
 - [https://www.analyticsvidhya.com/blog/2021/10/an-explanation-to-pythons-lambda-map-filter-and-reduce/](https://www.analyticsvidhya.com/blog/2021/10/an-explanation-to-pythons-lambda-map-filter-and-reduce/)<br>
-- []()<br>
+- [https://hackernoon.com/learning-python-functions-by-creating-a-simple-project?source=rss](https://hackernoon.com/learning-python-functions-by-creating-a-simple-project?source=rss)<br>
+
 ## `List`
 - [https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python](https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python)<br>
 
