@@ -97,6 +97,9 @@ Table of Contents
 - [https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c](https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)<br>
 - [https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/](https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/)<br>
 
+## FastApi
+- [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
+
 
 ## `Python interview`
 - [https://pythonawesome.com/about-different-data-structures-and-algorithms/](https://pythonawesome.com/about-different-data-structures-and-algorithms/)<br>
