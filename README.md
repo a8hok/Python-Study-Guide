@@ -98,6 +98,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/](https://www.freecodecamp.org/news/django-project-create-a-digital-resume-using-django-and-python/)<br>
 - [https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c](https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)<br>
 - [https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/](https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/)<br>
+- [https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea](https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
