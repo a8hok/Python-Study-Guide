@@ -102,6 +102,7 @@ Table of Contents
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
+- [https://medium.com/code-climbers/serverless-rest-api-on-aws-with-fastapi-bd9de11f925a](https://medium.com/code-climbers/serverless-rest-api-on-aws-with-fastapi-bd9de11f925a)<br>
 
 
 ## `Python interview`
