@@ -57,6 +57,7 @@ Table of Contents
 - [https://python.plainenglish.io/complete-python-guide-from-learning-to-earning-ac5e5504c883](https://python.plainenglish.io/complete-python-guide-from-learning-to-earning-ac5e5504c883)<br>
 - [https://moreabouttech.com/logging-in-python-a-beginners-guide](https://moreabouttech.com/logging-in-python-a-beginners-guide)<br>
 - [https://pub.towardsai.net/a-crash-course-on-python-part-1-2caeb263962d](https://pub.towardsai.net/a-crash-course-on-python-part-1-2caeb263962d)<br>
+- [https://dzone.com/articles/best-ways-to-learn-python-from-scratch](https://dzone.com/articles/best-ways-to-learn-python-from-scratch)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
