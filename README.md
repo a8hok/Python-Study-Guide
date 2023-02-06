@@ -61,7 +61,8 @@ Table of Contents
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
 - [https://python.plainenglish.io/mastering-object-oriented-programming-248d7cfb4d5](https://python.plainenglish.io/mastering-object-oriented-programming-248d7cfb4d5)<br>
--[https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/](https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/)
+- [https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/](https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/)
+- [https://realpython.com/courses/python-basics-oop/](https://realpython.com/courses/python-basics-oop/)<br>
 
 ## `Projects in Python`
 - [https://towardsdatascience.com/these-17-python-projects-will-teach-you-way-better-than-hello-world-14b28aa4c308](https://towardsdatascience.com/these-17-python-projects-will-teach-you-way-better-than-hello-world-14b28aa4c308)<br>
