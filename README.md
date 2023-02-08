@@ -115,5 +115,5 @@ Table of Contents
 - [https://www.edureka.co/blog/interview-questions/python-interview-questions/](https://www.edureka.co/blog/interview-questions/python-interview-questions/)<br>
 - [https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3(https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3)<br>
 
-## `Python Architechture`
+## `Python Architecture`
 - [https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb](https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb)<br>
