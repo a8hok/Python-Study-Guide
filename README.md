@@ -82,6 +82,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/](https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)<br>
 - [https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/](https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/](https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/)<br>
+- [https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj](https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
