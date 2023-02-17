@@ -85,6 +85,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/](https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/)<br>
 - [https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj](https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj)<br>
 - [https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/](https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/)<br>
+- [https://dev.to/this-is-learning/how-to-code-in-pythonusing-paradigms-4eo](https://dev.to/this-is-learning/how-to-code-in-pythonusing-paradigms-4eo)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
