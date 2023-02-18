@@ -60,6 +60,7 @@ Table of Contents
 - [https://dzone.com/articles/best-ways-to-learn-python-from-scratch](https://dzone.com/articles/best-ways-to-learn-python-from-scratch)<br>
 - [https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/](https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/)<br>
 - [https://testdriven.io/blog/documenting-python/](https://testdriven.io/blog/documenting-python/)<br>
+- [https://www.kdnuggets.com/2023/02/learning-python-four-weeks-roadmap.html?utm_source=rss&utm_medium=rss&utm_campaign=learning-python-in-four-weeks-a-roadmap](https://www.kdnuggets.com/2023/02/learning-python-four-weeks-roadmap.html?utm_source=rss&utm_medium=rss&utm_campaign=learning-python-in-four-weeks-a-roadmap)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
