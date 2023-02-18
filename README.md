@@ -102,6 +102,7 @@ Table of Contents
 ## `Flask`
 - [https://pythonistaplanet.com/python-flask-project-ideas/](https://pythonistaplanet.com/python-flask-project-ideas/)<br>
 - [https://realpython.com/flask-javascript-frontend-for-rest-api/](https://realpython.com/flask-javascript-frontend-for-rest-api/)<br>
+- [https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/](https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/)<br>
 
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
