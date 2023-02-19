@@ -61,6 +61,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/](https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/)<br>
 - [https://testdriven.io/blog/documenting-python/](https://testdriven.io/blog/documenting-python/)<br>
 - [https://www.kdnuggets.com/2023/02/learning-python-four-weeks-roadmap.html?utm_source=rss&utm_medium=rss&utm_campaign=learning-python-in-four-weeks-a-roadmap](https://www.kdnuggets.com/2023/02/learning-python-four-weeks-roadmap.html?utm_source=rss&utm_medium=rss&utm_campaign=learning-python-in-four-weeks-a-roadmap)<br>
+- [https://medium.com/knowledgelens/understanding-the-differences-between-class-instance-and-static-methods-b4027911a09f](https://medium.com/knowledgelens/understanding-the-differences-between-class-instance-and-static-methods-b4027911a09f)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
