@@ -125,3 +125,6 @@ Table of Contents
 
 ## `Python Architecture`
 - [https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb](https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb)<br>
+
+## Python Book
+- [https://python.plainenglish.io/this-book-is-perfect-for-learning-python-c63528639357](https://python.plainenglish.io/this-book-is-perfect-for-learning-python-c63528639357)<br>
