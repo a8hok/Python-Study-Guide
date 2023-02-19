@@ -87,6 +87,7 @@ Table of Contents
 - [https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj](https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj)<br>
 - [https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/](https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/)<br>
 - [https://dev.to/this-is-learning/how-to-code-in-pythonusing-paradigms-4eo](https://dev.to/this-is-learning/how-to-code-in-pythonusing-paradigms-4eo)<br>
+- [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
