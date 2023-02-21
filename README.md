@@ -37,7 +37,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/#-object-oriented-programming-in-python)<br>
 - [https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction](https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction)<br>
 - [https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html](https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html)<br>
-- []()<br>
+- [https://www.developer.com/languages/python/top-python-frameworks/](https://www.developer.com/languages/python/top-python-frameworks/)<br>
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
