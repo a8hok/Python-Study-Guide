@@ -114,6 +114,7 @@ Table of Contents
 - [https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c](https://towardsdatascience.com/django-first-steps-for-the-total-beginners-a-quick-tutorial-5f1e5e7e9a8c)<br>
 - [https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/](https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/)<br>
 - [https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea](https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea)<br>
+- [https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42](https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
