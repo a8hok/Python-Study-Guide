@@ -1,11 +1,8 @@
 # Python Interview preparation
-Python interview useful links
 
 Table of Contents
 =================
 
-* [Python Interview preparation](#python-interview-preparation)
-* [Table of Contents](#table-of-contents)
    * [Core concepts](#core-concepts)
    * [List](#list)
    * [String](#string)
@@ -19,7 +16,10 @@ Table of Contents
    * [News letter](#news-letter)
    * [Flask](#flask)
    * [Django](#django)
+   * [FastApi](#fastapi)
    * [Python interview](#python-interview)
+   * [Python Architecture](#python-architecture)
+   * [Python Book](#python-book)
 
 
 ## `Core concepts`
