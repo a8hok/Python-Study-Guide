@@ -27,6 +27,7 @@ Table of Contents
 - [https://hackernoon.com/learning-python-functions-by-creating-a-simple-project?source=rss](https://hackernoon.com/learning-python-functions-by-creating-a-simple-project?source=rss)<br>
 - [https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/](https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/)<br>
 - [https://medium.com/@cyberdud3/python-mastery-a-100-day-journey-to-becoming-a-skilled-programmer-684ac32591ee](https://medium.com/@cyberdud3/python-mastery-a-100-day-journey-to-becoming-a-skilled-programmer-684ac32591ee)<br>
+- [https://www.freecodecamp.org/news/python-lambda-functions/](https://www.freecodecamp.org/news/python-lambda-functions/)<br>
 
 ## `List`
 - [https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python](https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python)<br>
