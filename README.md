@@ -28,6 +28,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/](https://www.freecodecamp.org/news/how-to-use-lambda-functions-in-python/)<br>
 - [https://medium.com/@cyberdud3/python-mastery-a-100-day-journey-to-becoming-a-skilled-programmer-684ac32591ee](https://medium.com/@cyberdud3/python-mastery-a-100-day-journey-to-becoming-a-skilled-programmer-684ac32591ee)<br>
 - [https://www.freecodecamp.org/news/python-lambda-functions/](https://www.freecodecamp.org/news/python-lambda-functions/)<br>
+- [https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5)<br>
 
 ## `List`
 - [https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python](https://shorttechtutorials.hashnode.dev/how-to-remove-item-from-list-python)<br>
