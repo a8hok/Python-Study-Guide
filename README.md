@@ -95,6 +95,7 @@ Table of Contents
 - [https://code.likeagirl.io/how-to-extract-information-from-files-using-python-97873cb6b05c](https://code.likeagirl.io/how-to-extract-information-from-files-using-python-97873cb6b05c)<br>
 - [https://python.plainenglish.io/python-meets-dynamodb-d5c956f82694](https://python.plainenglish.io/python-meets-dynamodb-d5c956f82694)<br>
 - [https://blog.francescociulla.com/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker](https://blog.francescociulla.com/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker)<br>
+- [https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777](https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
