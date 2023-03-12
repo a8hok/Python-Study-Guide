@@ -140,3 +140,6 @@ Table of Contents
 
 ## Python Book
 - [https://python.plainenglish.io/this-book-is-perfect-for-learning-python-c63528639357](https://python.plainenglish.io/this-book-is-perfect-for-learning-python-c63528639357)<br>
+
+## Python library
+- [https://avichawla.substack.com/p/35-gem-py-libs](https://avichawla.substack.com/p/35-gem-py-libs)<br>
