@@ -130,6 +130,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
 - [https://medium.com/code-climbers/serverless-rest-api-on-aws-with-fastapi-bd9de11f925a](https://medium.com/code-climbers/serverless-rest-api-on-aws-with-fastapi-bd9de11f925a)<br>
 - [https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi?source=rss](https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi?source=rss)<br>
+- [https://levelup.gitconnected.com/why-fastapi-is-a-future-of-python-web-development-181bed9d46f4](https://levelup.gitconnected.com/why-fastapi-is-a-future-of-python-web-development-181bed9d46f4)<br>
 
 
 ## `Python interview`
