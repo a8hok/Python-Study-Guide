@@ -126,6 +126,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/](https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/)<br>
 - [https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea](https://awstip.com/dockerizing-your-django-web-application-8ccaee0d52ea)<br>
 - [https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42](https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42)<br>
+- [https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/](https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
