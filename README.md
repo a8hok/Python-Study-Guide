@@ -31,6 +31,7 @@ Table of Contents
 - [https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5](https://medium.com/@cyberdud3/day-2-of-python-mastery-series-understanding-basic-data-types-variables-and-operators-2dbfb9347ad5)<br>
 - [https://www.freecodecamp.org/news/how-to-use-loops-in-python/](https://www.freecodecamp.org/news/how-to-use-loops-in-python/)<br>
 - [https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)<br>
+- 
 
 
 ## `List`
@@ -44,6 +45,7 @@ Table of Contents
 - [https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction](https://www.rithmschool.com/courses/python-fundamentals-part-1/python-modules-introduction)<br>
 - [https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html](https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html)<br>
 - [https://www.developer.com/languages/python/top-python-frameworks/](https://www.developer.com/languages/python/top-python-frameworks/)<br>
+- [https://www.simplilearn.com/learn-python-basics-free-course-skillup](https://www.simplilearn.com/learn-python-basics-free-course-skillup)<br>
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
