@@ -136,6 +136,7 @@ Table of Contents
 - [https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi?source=rss](https://hackernoon.com/how-to-architect-individual-throttles-for-users-and-tables-in-fastapi?source=rss)<br>
 - [https://levelup.gitconnected.com/why-fastapi-is-a-future-of-python-web-development-181bed9d46f4](https://levelup.gitconnected.com/why-fastapi-is-a-future-of-python-web-development-181bed9d46f4)<br>
 - [https://machinelearningprojects.net/flask-projects/](https://machinelearningprojects.net/flask-projects/)<br>
+- [https://www.codecademy.com/learn/learn-flask](https://www.codecademy.com/learn/learn-flask)<br>
 
 
 ## `Python interview`
