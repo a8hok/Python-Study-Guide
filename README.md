@@ -140,6 +140,7 @@ Table of Contents
 - [https://machinelearningprojects.net/flask-projects/](https://machinelearningprojects.net/flask-projects/)<br>
 - [https://www.codecademy.com/learn/learn-flask](https://www.codecademy.com/learn/learn-flask)<br>
 - [https://testdriven.io/blog/fastapi-graphql/](https://testdriven.io/blog/fastapi-graphql/)<br>
+- [https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500](https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500)<br>
 
 
 ## `Python interview`
