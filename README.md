@@ -46,6 +46,7 @@ Table of Contents
 - [https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html](https://www.java67.com/2020/06/top-5-courses-to-learn-django-and-python-for-web-development.html)<br>
 - [https://www.developer.com/languages/python/top-python-frameworks/](https://www.developer.com/languages/python/top-python-frameworks/)<br>
 - [https://www.simplilearn.com/learn-python-basics-free-course-skillup](https://www.simplilearn.com/learn-python-basics-free-course-skillup)<br>
+- [https://cs50.harvard.edu/python/2022/](https://cs50.harvard.edu/python/2022/)<br>
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
