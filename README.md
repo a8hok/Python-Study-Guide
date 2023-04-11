@@ -74,6 +74,7 @@ Table of Contents
 - [https://medium.com/knowledgelens/understanding-the-differences-between-class-instance-and-static-methods-b4027911a09f](https://medium.com/knowledgelens/understanding-the-differences-between-class-instance-and-static-methods-b4027911a09f)<br>
 - [https://www.freecodecamp.org/news/python-variables/](https://www.freecodecamp.org/news/python-variables/)<br>
 - [https://www.freecodecamp.org/news/how-to-use-python-for-web-development/](https://www.freecodecamp.org/news/how-to-use-python-for-web-development/)<br>
+- [https://pradeepkurapati.hashnode.dev/the-impact-of-open-source-on-python-development](https://pradeepkurapati.hashnode.dev/the-impact-of-open-source-on-python-development)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
