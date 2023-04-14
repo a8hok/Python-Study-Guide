@@ -109,6 +109,7 @@ Table of Contents
 - [https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777](https://medium.com/@Teniloluwa_/building-a-dashboard-in-python-4d885edf0777)<br>
 - [https://hackr.io/blog/python-projects](https://hackr.io/blog/python-projects)<br>
 - [https://code.likeagirl.io/structured-project-code-repository-e0d465d26731](https://code.likeagirl.io/structured-project-code-repository-e0d465d26731)<br>
+- [https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss](https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
