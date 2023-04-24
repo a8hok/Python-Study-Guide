@@ -32,6 +32,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-loops-in-python/](https://www.freecodecamp.org/news/how-to-use-loops-in-python/)<br>
 - [https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)<br>
 - [https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/](https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/)<br>
+- [https://procodeguide.com/python-tutorials/python-for-loop-the-easy-way/](https://procodeguide.com/python-tutorials/python-for-loop-the-easy-way/)<br>
 
 
 ## `List`
