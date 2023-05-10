@@ -113,6 +113,7 @@ Table of Contents
 - [https://code.likeagirl.io/structured-project-code-repository-e0d465d26731](https://code.likeagirl.io/structured-project-code-repository-e0d465d26731)<br>
 - [https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss](https://hackernoon.com/50-python-projects-10-lines-of-code?source=rss)<br>
 - [https://hasanaboulhasan.medium.com/free-advanced-chatgpt-prompt-engineering-course-fd80ebfeeed9](https://hasanaboulhasan.medium.com/free-advanced-chatgpt-prompt-engineering-course-fd80ebfeeed9)<br>
+- [https://dzone.com/articles/building-a-flask-web-application-with-docker-a-ste](https://dzone.com/articles/building-a-flask-web-application-with-docker-a-ste)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
