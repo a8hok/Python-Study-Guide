@@ -156,6 +156,7 @@ Table of Contents
 - [https://pythonawesome.com/about-different-data-structures-and-algorithms/](https://pythonawesome.com/about-different-data-structures-and-algorithms/)<br>
 - [https://www.edureka.co/blog/interview-questions/python-interview-questions/](https://www.edureka.co/blog/interview-questions/python-interview-questions/)<br>
 - [https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3(https://medium.com/javarevisited/the-2022-python-programmer-roadmap-bafb365071a3)<br>
+- [https://howtocrackit.com/nailing-your-next-python-technical-interview/](https://howtocrackit.com/nailing-your-next-python-technical-interview/)<br>
 
 ## `Python Architecture`
 - [https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb](https://towardsdev.com/django-and-clean-architecture-the-real-battle-bbdc862069fb)<br>
