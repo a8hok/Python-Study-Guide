@@ -141,6 +141,7 @@ Table of Contents
 - [https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42](https://towardsdev.com/how-to-integrate-django-orm-with-fastapi-8451b6335b42)<br>
 - [https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/](https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/)<br>
 - [https://testdriven.io/blog/django-rest-auth/](https://testdriven.io/blog/django-rest-auth/)<br>
+- [https://www.section.io/engineering-education/core-concepts-of-django-to-learn/](https://www.section.io/engineering-education/core-concepts-of-django-to-learn/)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
