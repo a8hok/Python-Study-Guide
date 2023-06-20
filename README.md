@@ -169,3 +169,6 @@ Table of Contents
 
 ## Python library
 - [https://avichawla.substack.com/p/35-gem-py-libs](https://avichawla.substack.com/p/35-gem-py-libs)<br>
+
+## Python tools
+- [https://www.developer.com/project-management/python-collaboration-tools/](https://www.developer.com/project-management/python-collaboration-tools/)<br>
