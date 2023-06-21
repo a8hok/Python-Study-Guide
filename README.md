@@ -143,6 +143,7 @@ Table of Contents
 - [https://testdriven.io/blog/django-rest-auth/](https://testdriven.io/blog/django-rest-auth/)<br>
 - [https://www.section.io/engineering-education/core-concepts-of-django-to-learn/](https://www.section.io/engineering-education/core-concepts-of-django-to-learn/)<br>
 - [https://dev.to/ifihan/testing-in-django-26e5](https://dev.to/ifihan/testing-in-django-26e5)<br>
+- [https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f](https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
