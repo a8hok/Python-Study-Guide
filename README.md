@@ -144,6 +144,7 @@ Table of Contents
 - [https://www.section.io/engineering-education/core-concepts-of-django-to-learn/](https://www.section.io/engineering-education/core-concepts-of-django-to-learn/)<br>
 - [https://dev.to/ifihan/testing-in-django-26e5](https://dev.to/ifihan/testing-in-django-26e5)<br>
 - [https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f](https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f)<br>
+- [https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf](https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
