@@ -146,6 +146,7 @@ Table of Contents
 - [https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f](https://awstip.com/understanding-the-fundamentals-of-django-7a867bd66b4f)<br>
 - [https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf](https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf)<br>
 - [https://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/](https://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/)<br>
+- [https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/](https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
