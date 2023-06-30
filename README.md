@@ -147,8 +147,9 @@ Table of Contents
 - [https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf](https://awstip.com/setting-up-a-django-project-with-docker-and-poetry-f391d6cde2cf)<br>
 - [https://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/](https://djangocentral.com/flask-vs-django-selecting-the-perfect-python-web-framework/)<br>
 - [https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/](https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/)<br>
- - [https://awstip.com/build-your-first-app-using-django-8e1523e2188f](https://awstip.com/build-your-first-app-using-django-8e1523e2188f)<br>
- - [https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1](https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1)<br>
+- [https://awstip.com/build-your-first-app-using-django-8e1523e2188f](https://awstip.com/build-your-first-app-using-django-8e1523e2188f)<br>
+- [https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1](https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1)<br>
+- [https://awstip.com/implementing-two-factor-authentication-2fa-with-django-and-django-rest-framework-drf-e945163b450a](https://awstip.com/implementing-two-factor-authentication-2fa-with-django-and-django-rest-framework-drf-e945163b450a)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
