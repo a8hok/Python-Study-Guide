@@ -180,3 +180,6 @@ Table of Contents
 
 ## Python tools
 - [https://www.developer.com/project-management/python-collaboration-tools/](https://www.developer.com/project-management/python-collaboration-tools/)<br>
+
+## Python automation
+- [https://www.freecodecamp.org/news/python-automation-scripts/](https://www.freecodecamp.org/news/python-automation-scripts/)<br>
