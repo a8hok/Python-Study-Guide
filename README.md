@@ -131,6 +131,7 @@ Table of Contents
 - [https://realpython.com/flask-javascript-frontend-for-rest-api/](https://realpython.com/flask-javascript-frontend-for-rest-api/)<br>
 - [https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/](https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/)<br>
 - [https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr](https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr)<br>
+- [https://code.likeagirl.io/how-to-build-a-drinking-water-reminder-app-with-flask-react-and-vonage-sms-api-2f0bf00aa085](https://code.likeagirl.io/how-to-build-a-drinking-water-reminder-app-with-flask-react-and-vonage-sms-api-2f0bf00aa085)<br>
 
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
