@@ -152,6 +152,7 @@ Table of Contents
 - [https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1](https://awstip.com/a-guide-to-model-relationships-in-django-5aa910fcf2d1)<br>
 - [https://awstip.com/implementing-two-factor-authentication-2fa-with-django-and-django-rest-framework-drf-e945163b450a](https://awstip.com/implementing-two-factor-authentication-2fa-with-django-and-django-rest-framework-drf-e945163b450a)<br>
 - [https://awstip.com/how-to-use-a-sass-in-a-django-framework-f742edff26ad](https://awstip.com/how-to-use-a-sass-in-a-django-framework-f742edff26ad)<br>
+- [https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/](https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
