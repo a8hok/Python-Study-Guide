@@ -154,6 +154,7 @@ Table of Contents
 - [https://awstip.com/how-to-use-a-sass-in-a-django-framework-f742edff26ad](https://awstip.com/how-to-use-a-sass-in-a-django-framework-f742edff26ad)<br>
 - [https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/](https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/)<br>
 - [https://awstip.com/optimizing-database-performance-in-django-with-advanced-querying-techniques-9bff269e45b8](https://awstip.com/optimizing-database-performance-in-django-with-advanced-querying-techniques-9bff269e45b8)<br>
+- [https://awstip.com/integrating-google-login-into-your-django-api-without-using-any-authentication-packages-39c1caa021c5](https://awstip.com/integrating-google-login-into-your-django-api-without-using-any-authentication-packages-39c1caa021c5)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
