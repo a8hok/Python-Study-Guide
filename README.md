@@ -169,6 +169,7 @@ Table of Contents
 - [https://testdriven.io/blog/fastapi-graphql/](https://testdriven.io/blog/fastapi-graphql/)<br>
 - [https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500](https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500)<br>
 - [https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4](https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4)<br>
+- [https://www.freecodecamp.org/news/fastapi-quickstart/](https://www.freecodecamp.org/news/fastapi-quickstart/)<br>
 
 
 ## `Python interview`
