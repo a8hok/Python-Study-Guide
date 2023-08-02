@@ -158,6 +158,7 @@ Table of Contents
 - [https://awstip.com/integrating-google-login-into-your-django-api-without-using-any-authentication-packages-39c1caa021c5](https://awstip.com/integrating-google-login-into-your-django-api-without-using-any-authentication-packages-39c1caa021c5)<br>
 - [https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/](https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/)<br>
 - [https://testdriven.io/blog/django-rest-authjs/](https://testdriven.io/blog/django-rest-authjs/)<br>
+- [https://awstip.com/file-caching-in-django-8533cbaff0a7](https://awstip.com/file-caching-in-django-8533cbaff0a7)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
