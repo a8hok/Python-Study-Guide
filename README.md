@@ -135,6 +135,7 @@ Table of Contents
 - [https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr](https://dzone.com/articles/how-to-build-a-url-shortener-web-app-with-flask-fr)<br>
 - [https://code.likeagirl.io/how-to-build-a-drinking-water-reminder-app-with-flask-react-and-vonage-sms-api-2f0bf00aa085](https://code.likeagirl.io/how-to-build-a-drinking-water-reminder-app-with-flask-react-and-vonage-sms-api-2f0bf00aa085)<br>
 - [https://code.likeagirl.io/build-a-barbie-movie-recommender-application-with-python-flask-and-react-40b142261415](https://code.likeagirl.io/build-a-barbie-movie-recommender-application-with-python-flask-and-react-40b142261415)<br>
+- [https://aws.plainenglish.io/deploying-a-flask-application-on-ec2-54cfeb396fa1](https://aws.plainenglish.io/deploying-a-flask-application-on-ec2-54cfeb396fa1)<br>
 
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
