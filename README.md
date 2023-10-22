@@ -48,6 +48,7 @@ Table of Contents
 - [https://www.developer.com/languages/python/top-python-frameworks/](https://www.developer.com/languages/python/top-python-frameworks/)<br>
 - [https://www.simplilearn.com/learn-python-basics-free-course-skillup](https://www.simplilearn.com/learn-python-basics-free-course-skillup)<br>
 - [https://cs50.harvard.edu/python/2022/](https://cs50.harvard.edu/python/2022/)<br>
+- [https://blog.boot.dev/education/learn-to-code-the-slow-way/?ref=dailydev](https://blog.boot.dev/education/learn-to-code-the-slow-way/?ref=dailydev)<br>
 
 ## `Tips and Tricks`
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
