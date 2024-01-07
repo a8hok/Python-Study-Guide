@@ -165,6 +165,7 @@ Table of Contents
 - [https://awstip.com/file-caching-in-django-8533cbaff0a7](https://awstip.com/file-caching-in-django-8533cbaff0a7)<br>
 - [https://awstip.com/building-scalable-applications-with-django-celery-and-rabbitmq-1a7c5c375e23](https://awstip.com/building-scalable-applications-with-django-celery-and-rabbitmq-1a7c5c375e23)<br>
 - [https://www.freecodecamp.org/news/deploying-a-django-app-to-render/](https://www.freecodecamp.org/news/deploying-a-django-app-to-render/)<br>
+- [https://awstip.com/unlocking-seamless-authentication-a-comprehensive-guide-to-google-oauth2-integration-with-django-6891d5bdb9f2](https://awstip.com/unlocking-seamless-authentication-a-comprehensive-guide-to-google-oauth2-integration-with-django-6891d5bdb9f2)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
