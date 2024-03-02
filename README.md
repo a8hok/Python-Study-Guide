@@ -1,5 +1,4 @@
-# Python Interview preparation
-
+# Python Study Guide
 Table of Contents
 =================
 
