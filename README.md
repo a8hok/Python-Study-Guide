@@ -168,6 +168,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/deploying-a-django-app-to-render/](https://www.freecodecamp.org/news/deploying-a-django-app-to-render/)<br>
 - [https://awstip.com/unlocking-seamless-authentication-a-comprehensive-guide-to-google-oauth2-integration-with-django-6891d5bdb9f2](https://awstip.com/unlocking-seamless-authentication-a-comprehensive-guide-to-google-oauth2-integration-with-django-6891d5bdb9f2)<br>
 - [https://freecodecamp.org/news/models-in-django/?ref=dailydev](https://freecodecamp.org/news/models-in-django/?ref=dailydev)<br>
+- [https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f](https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f)<br>
 
 ## FastApi
 - [https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)<br>
