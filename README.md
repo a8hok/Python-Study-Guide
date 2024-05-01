@@ -54,7 +54,7 @@ Table of Contents
 - [https://blog.codekaro.info/python-useful-tips-for-beginners](https://blog.codekaro.info/python-useful-tips-for-beginners)<br>
 - [https://proxlight.hashnode.dev/python-interesting-facts](https://proxlight.hashnode.dev/python-interesting-facts)<br>
 - [https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d](https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d)<br>
-- []()<br>
+- [https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/)<br>
 
 ## `Learn Python`
 - [https://dev.to/phylis/30days-of-python-laj?signin=true](https://dev.to/phylis/30days-of-python-laj?signin=true)<br>
