@@ -87,6 +87,7 @@ Table of Contents
 - [https://realpython.com/courses/python-basics-oop/](https://realpython.com/courses/python-basics-oop/)<br>
 - [https://dzone.com/articles/a-comprehensive-guide-on-how-to-copy-objects-in-py](https://dzone.com/articles/a-comprehensive-guide-on-how-to-copy-objects-in-py)<br>
 - [https://www.freecodecamp.org/news/how-to-build-an-online-banking-system-python-oop-tutorial/](https://www.freecodecamp.org/news/how-to-build-an-online-banking-system-python-oop-tutorial/)<br>
+- [https://www.freecodecamp.org/news/object-oriented-programming-python/](https://www.freecodecamp.org/news/object-oriented-programming-python/)<br>
 
 ## `Projects in Python`
 - [https://towardsdatascience.com/these-17-python-projects-will-teach-you-way-better-than-hello-world-14b28aa4c308](https://towardsdatascience.com/these-17-python-projects-will-teach-you-way-better-than-hello-world-14b28aa4c308)<br>
