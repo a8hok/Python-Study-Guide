@@ -120,6 +120,7 @@ Table of Contents
 - [https://dzone.com/articles/building-a-flask-web-application-with-docker-a-ste](https://dzone.com/articles/building-a-flask-web-application-with-docker-a-ste)<br>
 - [https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/](https://www.freecodecamp.org/news/convert-multiple-images-into-a-single-pdf-file-with-python/)<br>
 - [https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101?ref=dailydev](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/](https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
