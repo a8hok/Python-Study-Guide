@@ -208,3 +208,6 @@ Table of Contents
 
 ## Python automation
 - [https://www.freecodecamp.org/news/python-automation-scripts/](https://www.freecodecamp.org/news/python-automation-scripts/)<br>
+
+## Python CheatSheet
+- [https://levelup.gitconnected.com/python-cheatsheet-5474e14853cb](https://levelup.gitconnected.com/python-cheatsheet-5474e14853cb)<br>
