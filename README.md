@@ -37,6 +37,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/](https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/)<br>
 - [https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/](https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/)<br>
 - [https://procodeguide.com/python-tutorials/python-for-loop-the-easy-way/](https://procodeguide.com/python-tutorials/python-for-loop-the-easy-way/)<br>
+- [https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/?ref=dailydev](https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/?ref=dailydev)<br>
 
 
 ## `List`
