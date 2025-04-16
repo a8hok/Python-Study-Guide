@@ -148,6 +148,7 @@ Table of Contents
 - [https://code.likeagirl.io/build-a-barbie-movie-recommender-application-with-python-flask-and-react-40b142261415](https://code.likeagirl.io/build-a-barbie-movie-recommender-application-with-python-flask-and-react-40b142261415)<br>
 - [https://aws.plainenglish.io/deploying-a-flask-application-on-ec2-54cfeb396fa1](https://aws.plainenglish.io/deploying-a-flask-application-on-ec2-54cfeb396fa1)<br>
 - [https://www.freecodecamp.org/news/jwt-authentication-in-flask/?ref=dailydev](https://www.freecodecamp.org/news/jwt-authentication-in-flask/?ref=dailydev)<br>
+- []()
 
 ## `Django`
 - [https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/](https://pythonawesome.com/a-simple-porfolio-with-django-bootstrap-and-sqlite3/)<br>
@@ -193,6 +194,7 @@ Table of Contents
 - [https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500](https://towardsdev.com/scaling-for-success-building-a-high-performance-app-with-microservices-fastapi-fasut-and-kafka-25437e006500)<br>
 - [https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4](https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4)<br>
 - [https://www.freecodecamp.org/news/fastapi-quickstart/](https://www.freecodecamp.org/news/fastapi-quickstart/)<br>
+- [https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev](https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev)<br>
 
 
 ## `Python interview`
