@@ -60,6 +60,7 @@ Table of Contents
 - [https://proxlight.hashnode.dev/python-interesting-facts](https://proxlight.hashnode.dev/python-interesting-facts)<br>
 - [https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d](https://python.plainenglish.io/collection-of-5-most-useful-scripts-in-python-part-5-3384a633c54d)<br>
 - [https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/)<br>
+- [https://towardsdev.com/advanced-python-features-for-better-code-54842e6a1e62](https://towardsdev.com/advanced-python-features-for-better-code-54842e6a1e62)<br>
 
 ## `Learn Python`
 - [https://dev.to/phylis/30days-of-python-laj?signin=true](https://dev.to/phylis/30days-of-python-laj?signin=true)<br>
