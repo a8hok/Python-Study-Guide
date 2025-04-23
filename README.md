@@ -196,6 +196,7 @@ Table of Contents
 - [https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4](https://awstip.com/exploring-backend-authentication-with-fastapi-72ab60cc88c4)<br>
 - [https://www.freecodecamp.org/news/fastapi-quickstart/](https://www.freecodecamp.org/news/fastapi-quickstart/)<br>
 - [https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev](https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev)<br>
+- [https://www.permit.io/blog/fastapi-rbac-full-implementation-tutorial?ref=dailydev](https://www.permit.io/blog/fastapi-rbac-full-implementation-tutorial?ref=dailydev)<br>
 
 
 ## `Python interview`
