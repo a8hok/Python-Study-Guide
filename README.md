@@ -129,6 +129,7 @@ Table of Contents
 - [https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101?ref=dailydev](https://dev.to/francescoxx/python-fullstack-rest-api-app-with-docker-1101?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/](https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/)<br>
 - [https://www.freecodecamp.org/news/backend-web-development-three-projects/](https://www.freecodecamp.org/news/backend-web-development-three-projects/)<br>
+- [https://replit.com/learn/100-days-of-python?ref=dailydev](https://replit.com/learn/100-days-of-python?ref=dailydev)<br>
 
 ## `Exception handling`
 - [https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/](https://www.freecodecamp.org/news/python-try-and-except-statements-how-to-handle-exceptions-in-python/)<br>
