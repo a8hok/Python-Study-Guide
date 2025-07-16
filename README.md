@@ -199,6 +199,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/fastapi-quickstart/](https://www.freecodecamp.org/news/fastapi-quickstart/)<br>
 - [https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev](https://www.david-dahan.com/blog/comparing-fastapi-and-django?ref=dailydev)<br>
 - [https://www.permit.io/blog/fastapi-rbac-full-implementation-tutorial?ref=dailydev](https://www.permit.io/blog/fastapi-rbac-full-implementation-tutorial?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/](https://www.freecodecamp.org/news/use-the-farm-stack-to-develop-full-stack-apps/)<br>
 
 
 ## `Python interview`
