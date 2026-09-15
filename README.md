@@ -218,6 +218,7 @@ Table of Contents
 
 ## Python library
 - [https://avichawla.substack.com/p/35-gem-py-libs](https://avichawla.substack.com/p/35-gem-py-libs)<br>
+- [https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/](https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/)<br>
 
 ## Python tools
 - [https://www.developer.com/project-management/python-collaboration-tools/](https://www.developer.com/project-management/python-collaboration-tools/)<br>
