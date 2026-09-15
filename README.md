@@ -86,6 +86,7 @@ Table of Contents
 - [https://pradeepkurapati.hashnode.dev/the-impact-of-open-source-on-python-development](https://pradeepkurapati.hashnode.dev/the-impact-of-open-source-on-python-development)<br>
 - [https://nerdleveltech.com/python-for-all-ages-an-accessible-guide-for-beginners/](https://nerdleveltech.com/python-for-all-ages-an-accessible-guide-for-beginners/)<br>
 - [https://www.freecodecamp.org/news/beginners-python-tutorial-pong/](https://www.freecodecamp.org/news/beginners-python-tutorial-pong/)<br>
+- [https://www.freecodecamp.org/news/learn-python-interactively/](https://www.freecodecamp.org/news/learn-python-interactively/)<br>
 
 ## `OOP Python`
 - [https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/](https://www.freecodecamp.org/news/learn-object-oriented-programming-with-python/)<br>
